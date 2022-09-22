@@ -1,0 +1,25 @@
+{
+    "name": "softwarequality",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/iEdwinDC/SoftwareQuality.git"
+    },
+    "author": "Edwin Diaz",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/iEdwinDC/SoftwareQuality/issues"
+    },
+    "homepage": "https://github.com/iEdwinDC/SoftwareQuality#readme",
+    "dependencies": {
+        "express": "^4.18.1",
+        "module": "^1.2.5",
+        "mysql": "^2.18.1",
+        "sequelize": "^6.23.0"
+    }
+}
